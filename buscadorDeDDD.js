@@ -77,3 +77,5 @@ function buscadorDeDDD(ddd) {
 
   return "DDD não cadastrado";
 }
+
+module.exports = buscadorDeDDD;
